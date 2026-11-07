@@ -1,7 +1,5 @@
 # Analisis Platform: Web, Desktop, & Mobile
 
-Laporan Komparatif Arsitektur dan Karakteristik Pengembangan Perangkat Lunak.
-
 ## 1. Pendahuluan
 
 Dalam rekayasa perangkat lunak modern, pemilihan platform (Web, Desktop, atau Mobile) merupakan keputusan arsitektural krusial yang menentukan jangkauan pengguna, performa, kompleksitas pengembangan, serta biaya pemeliharaan. Dokumen ini menyajikan analisis komprehensif mengenai perbandingan ketiga platform tersebut berdasarkan berbagai aspek teknis dan operasional.
